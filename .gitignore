@@ -1,2 +1,4 @@
-file7
-sdyade/file1
+*.log
+!server.log
+*.[oa]
+*~
