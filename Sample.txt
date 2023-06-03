@@ -1,1 +1,2 @@
 This is the sample file created in GitHub
+This the second line to sample file in GitHub
